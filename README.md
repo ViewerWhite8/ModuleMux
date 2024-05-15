@@ -3,12 +3,16 @@
 
 # install tools
 pkg upgrade && pkg update
+
 pkg install python
+
 pkg install git
+
 git clone https://github.com/ViewerWhite8/ModuleMux
 
 # how to run/use? 
 cd ModuleMux
+
 python modulemux.py
 
 # fungsi opsi
