@@ -16,7 +16,7 @@ git clone https://github.com/ViewerWhite8/ModuleMux
 # Use
 
 ```
-mv AuModIn.sh ..
+mv ModuleMux/AuModIn.sh $HOME
 ```
 ```
 chmod +x AuModIn.sh
