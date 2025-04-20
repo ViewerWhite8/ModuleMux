@@ -9,6 +9,9 @@ pkg upgrade && pkg update
 ```
 pkg install git
 ```
+```
+git clone https://github.com/ViewerWhite8/ModuleMux
+```
 
 # Use
 
